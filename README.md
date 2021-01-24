@@ -1,6 +1,6 @@
 # Data_structures
 Here I am implementing Data structures using python!!!!
-1.Linked Lists
+# 1.Linked Lists
     a.Linked Lists
     b.Doubly linked lists
         Functions Implemented:
