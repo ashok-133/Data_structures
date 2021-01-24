@@ -112,3 +112,4 @@ if __name__ == '__main__':
     ll.print_forward()
     ll.remove_at(2)
     ll.print_forward()
+    ll.print_backward()
